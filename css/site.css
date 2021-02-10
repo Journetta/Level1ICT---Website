@@ -1,0 +1,11 @@
+footer,header,nav,article {
+	display: black;
+	background-color: white;
+	text-align: left;
+}
+footer {
+		position: fixed;
+		background-color: red';
+		width: 100%;
+		bottom: 0;
+}
